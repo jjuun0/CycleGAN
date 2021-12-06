@@ -1,3 +1,11 @@
+# 참고한 Github
+https://github.com/aitorzip/PyTorch-CycleGAN.git
+
+# 실습
+- 데이터셋: apple2orange
+- 100 에폭만 진행
+- [결과 보기](CycleGAN-output)
+
 # Pytorch-CycleGAN
 A clean and readable Pytorch implementation of CycleGAN (https://arxiv.org/abs/1703.10593)
 
